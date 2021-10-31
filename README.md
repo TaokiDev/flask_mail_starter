@@ -1,0 +1,1 @@
+NOTE: It's important to create the file '.gitignore' and write 'preferences.py' into them to ignore the commit of this file or any who contains sensitive information
